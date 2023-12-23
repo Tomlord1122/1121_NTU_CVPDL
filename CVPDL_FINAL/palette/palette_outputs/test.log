@@ -1,0 +1,553 @@
+23-12-10 12:52:56.725 - INFO: Create the log file in directory palette_outputs.
+
+23-12-10 12:52:56.743 - INFO: Dataset [InpaintDataset() form data.dataset] is created.
+23-12-10 12:52:56.743 - INFO: Dataset for test have 1 samples.
+23-12-10 12:52:56.996 - INFO: Network [Network() form models.network] is created.
+23-12-10 12:52:56.997 - WARNING: Config is a str, converts to a dict {'name': 'mae'}
+23-12-10 12:52:57.246 - INFO: Metric [mae() form models.metric] is created.
+23-12-10 12:52:57.246 - WARNING: Config is a str, converts to a dict {'name': 'mse_loss'}
+23-12-10 12:52:57.246 - INFO: Loss [mse_loss() form models.loss] is created.
+23-12-10 12:52:57.401 - INFO: Beign loading pretrained model [Network] ...
+23-12-10 12:52:57.402 - INFO: Loading pretrained model from [./Palette/checkpoint/200_Network.pth] ...
+23-12-10 12:52:57.548 - INFO: Beign loading pretrained model [Network_ema] ...
+23-12-10 12:52:57.548 - WARNING: Pretrained model in [./Palette/checkpoint/200_Network_ema.pth] is not existed, Skip it
+23-12-10 12:55:28.410 - INFO: Create the log file in directory palette_outputs.
+
+23-12-10 12:55:28.425 - INFO: Dataset [InpaintDataset() form data.dataset] is created.
+23-12-10 12:55:28.425 - INFO: Dataset for test have 1 samples.
+23-12-10 12:55:28.665 - INFO: Network [Network() form models.network] is created.
+23-12-10 12:55:28.665 - WARNING: Config is a str, converts to a dict {'name': 'mae'}
+23-12-10 12:55:28.895 - INFO: Metric [mae() form models.metric] is created.
+23-12-10 12:55:28.895 - WARNING: Config is a str, converts to a dict {'name': 'mse_loss'}
+23-12-10 12:55:28.895 - INFO: Loss [mse_loss() form models.loss] is created.
+23-12-10 12:55:29.261 - INFO: Beign loading pretrained model [Network] ...
+23-12-10 12:55:29.261 - INFO: Loading pretrained model from [./Palette/checkpoint/200_Network.pth] ...
+23-12-10 12:55:29.373 - INFO: Beign loading pretrained model [Network_ema] ...
+23-12-10 12:55:29.373 - WARNING: Pretrained model in [./Palette/checkpoint/200_Network_ema.pth] is not existed, Skip it
+23-12-10 12:55:29.376 - INFO: Model [Palette() form models.model] is created.
+23-12-10 12:55:29.376 - INFO: Begin model test.
+23-12-10 12:56:30.410 - INFO: test/mae: 0.2371307611465454	
+23-12-10 12:56:30.411 - INFO: epoch: 0	
+23-12-10 12:56:30.411 - INFO: iters: 1	
+23-12-10 12:58:02.257 - INFO: Create the log file in directory palette_outputs.
+
+23-12-10 12:58:02.271 - INFO: Dataset [InpaintDataset() form data.dataset] is created.
+23-12-10 12:58:02.271 - INFO: Dataset for test have 3 samples.
+23-12-10 12:58:02.510 - INFO: Network [Network() form models.network] is created.
+23-12-10 12:58:02.510 - WARNING: Config is a str, converts to a dict {'name': 'mae'}
+23-12-10 12:58:02.748 - INFO: Metric [mae() form models.metric] is created.
+23-12-10 12:58:02.748 - WARNING: Config is a str, converts to a dict {'name': 'mse_loss'}
+23-12-10 12:58:02.749 - INFO: Loss [mse_loss() form models.loss] is created.
+23-12-10 12:58:03.133 - INFO: Beign loading pretrained model [Network] ...
+23-12-10 12:58:03.133 - INFO: Loading pretrained model from [./Palette/checkpoint/200_Network.pth] ...
+23-12-10 12:58:03.243 - INFO: Beign loading pretrained model [Network_ema] ...
+23-12-10 12:58:03.243 - WARNING: Pretrained model in [./Palette/checkpoint/200_Network_ema.pth] is not existed, Skip it
+23-12-10 12:58:03.246 - INFO: Model [Palette() form models.model] is created.
+23-12-10 12:58:03.246 - INFO: Begin model test.
+23-12-10 13:00:42.036 - INFO: test/mae: 0.14125986397266388	
+23-12-10 13:00:42.036 - INFO: epoch: 0	
+23-12-10 13:00:42.036 - INFO: iters: 3	
+23-12-10 05:41:30.517 - INFO: Create the log file in directory palette_outputs.
+
+23-12-10 14:04:56.722 - INFO: Create the log file in directory palette_outputs.
+
+23-12-10 14:09:28.717 - INFO: Create the log file in directory palette_outputs.
+
+23-12-10 14:10:03.935 - INFO: Create the log file in directory palette_outputs.
+
+23-12-10 14:10:03.950 - INFO: Dataset [InpaintDataset() form data.dataset] is created.
+23-12-10 14:10:03.950 - INFO: Dataset for test have 1 samples.
+23-12-10 14:10:04.199 - INFO: Network [Network() form models.network] is created.
+23-12-10 14:10:04.199 - WARNING: Config is a str, converts to a dict {'name': 'mae'}
+23-12-10 14:10:04.461 - INFO: Metric [mae() form models.metric] is created.
+23-12-10 14:10:04.461 - WARNING: Config is a str, converts to a dict {'name': 'mse_loss'}
+23-12-10 14:10:04.461 - INFO: Loss [mse_loss() form models.loss] is created.
+23-12-10 14:10:04.922 - INFO: Beign loading pretrained model [Network] ...
+23-12-10 14:10:04.922 - INFO: Loading pretrained model from [./Palette/checkpoint/200_Network.pth] ...
+23-12-10 14:10:05.029 - INFO: Beign loading pretrained model [Network_ema] ...
+23-12-10 14:10:05.029 - WARNING: Pretrained model in [./Palette/checkpoint/200_Network_ema.pth] is not existed, Skip it
+23-12-10 14:10:05.032 - INFO: Model [Palette() form models.model] is created.
+23-12-10 14:10:05.032 - INFO: Begin model test.
+23-12-10 14:11:06.445 - INFO: test/mae: 0.0235119815915823	
+23-12-10 14:11:06.445 - INFO: epoch: 0	
+23-12-10 14:11:06.445 - INFO: iters: 1	
+23-12-10 07:20:11.673 - INFO: Create the log file in directory palette_outputs.
+
+23-12-10 07:20:11.744 - INFO: Dataset [InpaintDataset() form data.dataset] is created.
+23-12-10 07:20:11.744 - INFO: Dataset for test have 1 samples.
+23-12-10 07:20:12.067 - INFO: Network [Network() form models.network] is created.
+23-12-10 07:20:12.068 - WARNING: Config is a str, converts to a dict {'name': 'mae'}
+23-12-10 07:20:12.452 - INFO: Metric [mae() form models.metric] is created.
+23-12-10 07:20:12.453 - WARNING: Config is a str, converts to a dict {'name': 'mse_loss'}
+23-12-10 07:20:12.453 - INFO: Loss [mse_loss() form models.loss] is created.
+23-12-10 07:20:12.744 - INFO: Beign loading pretrained model [Network] ...
+23-12-10 07:20:12.744 - INFO: Loading pretrained model from [./Palette/checkpoint/200_Network.pth] ...
+23-12-10 07:20:12.906 - INFO: Beign loading pretrained model [Network_ema] ...
+23-12-10 07:20:12.906 - WARNING: Pretrained model in [./Palette/checkpoint/200_Network_ema.pth] is not existed, Skip it
+23-12-10 07:42:29.681 - INFO: Create the log file in directory palette_outputs.
+
+23-12-10 07:42:29.715 - INFO: Dataset [InpaintDataset() form data.dataset] is created.
+23-12-10 07:42:29.715 - INFO: Dataset for test have 1 samples.
+23-12-10 07:42:30.053 - INFO: Network [Network() form models.network] is created.
+23-12-10 07:42:30.053 - WARNING: Config is a str, converts to a dict {'name': 'mae'}
+23-12-10 07:42:30.348 - INFO: Metric [mae() form models.metric] is created.
+23-12-10 07:42:30.348 - WARNING: Config is a str, converts to a dict {'name': 'mse_loss'}
+23-12-10 07:42:30.348 - INFO: Loss [mse_loss() form models.loss] is created.
+23-12-10 07:42:30.501 - INFO: Beign loading pretrained model [Network] ...
+23-12-10 07:42:30.501 - INFO: Loading pretrained model from [./Palette/checkpoint/200_Network.pth] ...
+23-12-10 07:42:30.693 - INFO: Beign loading pretrained model [Network_ema] ...
+23-12-10 07:42:30.693 - WARNING: Pretrained model in [./Palette/checkpoint/200_Network_ema.pth] is not existed, Skip it
+23-12-10 08:03:20.821 - INFO: Create the log file in directory palette_outputs.
+
+23-12-10 08:03:20.848 - INFO: Dataset [InpaintDataset() form data.dataset] is created.
+23-12-10 08:03:20.848 - INFO: Dataset for test have 1 samples.
+23-12-10 08:03:21.177 - INFO: Network [Network() form models.network] is created.
+23-12-10 08:03:21.177 - WARNING: Config is a str, converts to a dict {'name': 'mae'}
+23-12-10 08:03:21.434 - INFO: Metric [mae() form models.metric] is created.
+23-12-10 08:03:21.435 - WARNING: Config is a str, converts to a dict {'name': 'mse_loss'}
+23-12-10 08:03:21.436 - INFO: Loss [mse_loss() form models.loss] is created.
+23-12-10 08:03:21.622 - INFO: Beign loading pretrained model [Network] ...
+23-12-10 08:03:21.622 - INFO: Loading pretrained model from [./Palette/checkpoint/200_Network.pth] ...
+23-12-10 08:03:21.794 - INFO: Beign loading pretrained model [Network_ema] ...
+23-12-10 08:03:21.795 - WARNING: Pretrained model in [./Palette/checkpoint/200_Network_ema.pth] is not existed, Skip it
+23-12-10 08:06:52.331 - INFO: Create the log file in directory palette_outputs.
+
+23-12-10 08:06:52.352 - INFO: Dataset [InpaintDataset() form data.dataset] is created.
+23-12-10 08:06:52.352 - INFO: Dataset for test have 1 samples.
+23-12-10 08:06:52.840 - INFO: Network [Network() form models.network] is created.
+23-12-10 08:06:52.840 - WARNING: Config is a str, converts to a dict {'name': 'mae'}
+23-12-10 08:06:53.104 - INFO: Metric [mae() form models.metric] is created.
+23-12-10 08:06:53.104 - WARNING: Config is a str, converts to a dict {'name': 'mse_loss'}
+23-12-10 08:06:53.105 - INFO: Loss [mse_loss() form models.loss] is created.
+23-12-10 08:06:53.195 - INFO: Beign loading pretrained model [Network] ...
+23-12-10 08:06:53.195 - INFO: Loading pretrained model from [./Palette/checkpoint/200_Network.pth] ...
+23-12-10 08:06:53.355 - INFO: Beign loading pretrained model [Network_ema] ...
+23-12-10 08:06:53.356 - WARNING: Pretrained model in [./Palette/checkpoint/200_Network_ema.pth] is not existed, Skip it
+23-12-10 08:08:38.650 - INFO: Create the log file in directory palette_outputs.
+
+23-12-10 08:08:38.669 - INFO: Dataset [InpaintDataset() form data.dataset] is created.
+23-12-10 08:08:38.669 - INFO: Dataset for test have 1 samples.
+23-12-10 08:08:38.997 - INFO: Network [Network() form models.network] is created.
+23-12-10 08:08:38.997 - WARNING: Config is a str, converts to a dict {'name': 'mae'}
+23-12-10 08:08:39.259 - INFO: Metric [mae() form models.metric] is created.
+23-12-10 08:08:39.259 - WARNING: Config is a str, converts to a dict {'name': 'mse_loss'}
+23-12-10 08:08:39.259 - INFO: Loss [mse_loss() form models.loss] is created.
+23-12-10 08:08:39.369 - INFO: Beign loading pretrained model [Network] ...
+23-12-10 08:08:39.369 - INFO: Loading pretrained model from [./Palette/checkpoint/200_Network.pth] ...
+23-12-10 08:08:39.536 - INFO: Beign loading pretrained model [Network_ema] ...
+23-12-10 08:08:39.536 - WARNING: Pretrained model in [./Palette/checkpoint/200_Network_ema.pth] is not existed, Skip it
+23-12-10 16:09:46.460 - INFO: Create the log file in directory palette_outputs.
+
+23-12-10 16:09:46.514 - INFO: Dataset [InpaintDataset() form data.dataset] is created.
+23-12-10 16:09:46.514 - INFO: Dataset for test have 1 samples.
+23-12-10 16:09:46.774 - INFO: Network [Network() form models.network] is created.
+23-12-10 16:09:46.774 - WARNING: Config is a str, converts to a dict {'name': 'mae'}
+23-12-10 16:09:47.084 - INFO: Metric [mae() form models.metric] is created.
+23-12-10 16:09:47.084 - WARNING: Config is a str, converts to a dict {'name': 'mse_loss'}
+23-12-10 16:09:47.084 - INFO: Loss [mse_loss() form models.loss] is created.
+23-12-10 16:09:47.442 - INFO: Beign loading pretrained model [Network] ...
+23-12-10 16:09:47.442 - INFO: Loading pretrained model from [./Palette/checkpoint/200_Network.pth] ...
+23-12-10 16:09:47.551 - INFO: Beign loading pretrained model [Network_ema] ...
+23-12-10 16:09:47.551 - WARNING: Pretrained model in [./Palette/checkpoint/200_Network_ema.pth] is not existed, Skip it
+23-12-10 16:09:47.555 - INFO: Model [Palette() form models.model] is created.
+23-12-10 16:09:47.555 - INFO: Begin model test.
+23-12-10 16:10:48.409 - INFO: test/mae: 0.03691721707582474	
+23-12-10 16:10:48.409 - INFO: epoch: 0	
+23-12-10 16:10:48.409 - INFO: iters: 1	
+23-12-10 08:11:10.015 - INFO: Create the log file in directory palette_outputs.
+
+23-12-10 08:11:10.033 - INFO: Dataset [InpaintDataset() form data.dataset] is created.
+23-12-10 08:11:10.033 - INFO: Dataset for test have 1 samples.
+23-12-10 08:11:10.406 - INFO: Network [Network() form models.network] is created.
+23-12-10 08:11:10.406 - WARNING: Config is a str, converts to a dict {'name': 'mae'}
+23-12-10 08:11:10.663 - INFO: Metric [mae() form models.metric] is created.
+23-12-10 08:11:10.664 - WARNING: Config is a str, converts to a dict {'name': 'mse_loss'}
+23-12-10 08:11:10.664 - INFO: Loss [mse_loss() form models.loss] is created.
+23-12-10 08:11:10.759 - INFO: Beign loading pretrained model [Network] ...
+23-12-10 08:11:10.760 - INFO: Loading pretrained model from [./Palette/checkpoint/200_Network.pth] ...
+23-12-10 08:11:10.955 - INFO: Beign loading pretrained model [Network_ema] ...
+23-12-10 08:11:10.955 - WARNING: Pretrained model in [./Palette/checkpoint/200_Network_ema.pth] is not existed, Skip it
+23-12-10 08:11:14.930 - INFO: Create the log file in directory palette_outputs.
+
+23-12-10 08:11:14.954 - INFO: Dataset [InpaintDataset() form data.dataset] is created.
+23-12-10 08:11:14.954 - INFO: Dataset for test have 1 samples.
+23-12-10 08:11:15.783 - INFO: Network [Network() form models.network] is created.
+23-12-10 08:11:15.789 - WARNING: Config is a str, converts to a dict {'name': 'mae'}
+23-12-10 08:11:16.162 - INFO: Metric [mae() form models.metric] is created.
+23-12-10 08:11:16.165 - WARNING: Config is a str, converts to a dict {'name': 'mse_loss'}
+23-12-10 08:11:16.165 - INFO: Loss [mse_loss() form models.loss] is created.
+23-12-10 08:11:17.933 - INFO: Beign loading pretrained model [Network] ...
+23-12-10 08:11:17.940 - INFO: Loading pretrained model from [./Palette/checkpoint/200_Network.pth] ...
+23-12-10 08:11:20.198 - INFO: Beign loading pretrained model [Network_ema] ...
+23-12-10 08:11:20.198 - WARNING: Pretrained model in [./Palette/checkpoint/200_Network_ema.pth] is not existed, Skip it
+23-12-10 08:11:24.004 - INFO: Create the log file in directory palette_outputs.
+
+23-12-10 08:11:24.038 - INFO: Dataset [InpaintDataset() form data.dataset] is created.
+23-12-10 08:11:24.039 - INFO: Dataset for test have 1 samples.
+23-12-10 08:11:25.041 - INFO: Network [Network() form models.network] is created.
+23-12-10 08:11:25.044 - WARNING: Config is a str, converts to a dict {'name': 'mae'}
+23-12-10 08:11:25.461 - INFO: Metric [mae() form models.metric] is created.
+23-12-10 08:11:25.461 - WARNING: Config is a str, converts to a dict {'name': 'mse_loss'}
+23-12-10 08:11:25.461 - INFO: Loss [mse_loss() form models.loss] is created.
+23-12-10 08:11:26.269 - INFO: Beign loading pretrained model [Network] ...
+23-12-10 08:11:26.269 - INFO: Loading pretrained model from [./Palette/checkpoint/200_Network.pth] ...
+23-12-10 08:11:26.450 - INFO: Beign loading pretrained model [Network_ema] ...
+23-12-10 08:11:26.451 - WARNING: Pretrained model in [./Palette/checkpoint/200_Network_ema.pth] is not existed, Skip it
+23-12-10 08:13:05.745 - INFO: Create the log file in directory palette_outputs.
+
+23-12-10 08:13:05.786 - INFO: Dataset [InpaintDataset() form data.dataset] is created.
+23-12-10 08:13:05.786 - INFO: Dataset for test have 1 samples.
+23-12-10 08:13:06.710 - INFO: Network [Network() form models.network] is created.
+23-12-10 08:13:06.713 - WARNING: Config is a str, converts to a dict {'name': 'mae'}
+23-12-10 08:13:07.255 - INFO: Metric [mae() form models.metric] is created.
+23-12-10 08:13:07.256 - WARNING: Config is a str, converts to a dict {'name': 'mse_loss'}
+23-12-10 08:13:07.256 - INFO: Loss [mse_loss() form models.loss] is created.
+23-12-10 08:13:07.949 - INFO: Beign loading pretrained model [Network] ...
+23-12-10 08:13:07.950 - INFO: Loading pretrained model from [./Palette/checkpoint/200_Network.pth] ...
+23-12-10 08:13:08.166 - INFO: Beign loading pretrained model [Network_ema] ...
+23-12-10 08:13:08.166 - WARNING: Pretrained model in [./Palette/checkpoint/200_Network_ema.pth] is not existed, Skip it
+23-12-10 08:13:36.326 - INFO: Create the log file in directory palette_outputs.
+
+23-12-10 08:13:36.370 - INFO: Dataset [InpaintDataset() form data.dataset] is created.
+23-12-10 08:13:36.374 - INFO: Dataset for test have 1 samples.
+23-12-10 08:13:37.383 - INFO: Network [Network() form models.network] is created.
+23-12-10 08:13:37.386 - WARNING: Config is a str, converts to a dict {'name': 'mae'}
+23-12-10 08:13:37.882 - INFO: Metric [mae() form models.metric] is created.
+23-12-10 08:13:37.882 - WARNING: Config is a str, converts to a dict {'name': 'mse_loss'}
+23-12-10 08:13:37.883 - INFO: Loss [mse_loss() form models.loss] is created.
+23-12-10 08:13:38.604 - INFO: Beign loading pretrained model [Network] ...
+23-12-10 08:13:38.605 - INFO: Loading pretrained model from [./Palette/checkpoint/200_Network.pth] ...
+23-12-10 08:13:38.956 - INFO: Beign loading pretrained model [Network_ema] ...
+23-12-10 08:13:38.957 - WARNING: Pretrained model in [./Palette/checkpoint/200_Network_ema.pth] is not existed, Skip it
+23-12-10 16:22:03.849 - INFO: Create the log file in directory palette_outputs.
+
+23-12-10 16:22:03.864 - INFO: Dataset [InpaintDataset() form data.dataset] is created.
+23-12-10 16:22:03.864 - INFO: Dataset for test have 1 samples.
+23-12-10 16:22:04.107 - INFO: Network [Network() form models.network] is created.
+23-12-10 16:22:04.108 - WARNING: Config is a str, converts to a dict {'name': 'mae'}
+23-12-10 16:22:04.333 - INFO: Metric [mae() form models.metric] is created.
+23-12-10 16:22:04.333 - WARNING: Config is a str, converts to a dict {'name': 'mse_loss'}
+23-12-10 16:22:04.333 - INFO: Loss [mse_loss() form models.loss] is created.
+23-12-10 16:22:04.715 - INFO: Beign loading pretrained model [Network] ...
+23-12-10 16:22:04.716 - INFO: Loading pretrained model from [./Palette/checkpoint/200_Network.pth] ...
+23-12-10 16:22:04.823 - INFO: Beign loading pretrained model [Network_ema] ...
+23-12-10 16:22:04.823 - WARNING: Pretrained model in [./Palette/checkpoint/200_Network_ema.pth] is not existed, Skip it
+23-12-10 16:22:04.827 - INFO: Model [Palette() form models.model] is created.
+23-12-10 16:22:04.827 - INFO: Begin model test.
+23-12-10 16:23:08.301 - INFO: test/mae: 0.023495597764849663	
+23-12-10 16:23:08.301 - INFO: epoch: 0	
+23-12-10 16:23:08.301 - INFO: iters: 1	
+23-12-10 16:23:50.994 - INFO: Create the log file in directory palette_outputs.
+
+23-12-10 16:23:51.009 - INFO: Dataset [InpaintDataset() form data.dataset] is created.
+23-12-10 16:23:51.009 - INFO: Dataset for test have 1 samples.
+23-12-10 16:23:51.272 - INFO: Network [Network() form models.network] is created.
+23-12-10 16:23:51.272 - WARNING: Config is a str, converts to a dict {'name': 'mae'}
+23-12-10 16:23:51.507 - INFO: Metric [mae() form models.metric] is created.
+23-12-10 16:23:51.507 - WARNING: Config is a str, converts to a dict {'name': 'mse_loss'}
+23-12-10 16:23:51.507 - INFO: Loss [mse_loss() form models.loss] is created.
+23-12-10 16:23:52.010 - INFO: Beign loading pretrained model [Network] ...
+23-12-10 16:23:52.011 - INFO: Loading pretrained model from [./Palette/checkpoint/200_Network.pth] ...
+23-12-10 16:23:52.130 - INFO: Beign loading pretrained model [Network_ema] ...
+23-12-10 16:23:52.131 - WARNING: Pretrained model in [./Palette/checkpoint/200_Network_ema.pth] is not existed, Skip it
+23-12-10 16:23:52.134 - INFO: Model [Palette() form models.model] is created.
+23-12-10 16:23:52.134 - INFO: Begin model test.
+23-12-10 16:24:55.479 - INFO: test/mae: 0.02473301999270916	
+23-12-10 16:24:55.479 - INFO: epoch: 0	
+23-12-10 16:24:55.479 - INFO: iters: 1	
+23-12-10 08:26:57.669 - INFO: Create the log file in directory palette_outputs.
+
+23-12-10 08:26:57.727 - INFO: Dataset [InpaintDataset() form data.dataset] is created.
+23-12-10 08:26:57.727 - INFO: Dataset for test have 1 samples.
+23-12-10 08:26:58.613 - INFO: Network [Network() form models.network] is created.
+23-12-10 08:26:58.618 - WARNING: Config is a str, converts to a dict {'name': 'mae'}
+23-12-10 08:26:59.422 - INFO: Metric [mae() form models.metric] is created.
+23-12-10 08:26:59.422 - WARNING: Config is a str, converts to a dict {'name': 'mse_loss'}
+23-12-10 08:26:59.423 - INFO: Loss [mse_loss() form models.loss] is created.
+23-12-10 08:27:00.779 - INFO: Beign loading pretrained model [Network] ...
+23-12-10 08:27:00.783 - INFO: Loading pretrained model from [./Palette/checkpoint/200_Network.pth] ...
+23-12-10 08:27:02.190 - INFO: Beign loading pretrained model [Network_ema] ...
+23-12-10 08:27:02.190 - WARNING: Pretrained model in [./Palette/checkpoint/200_Network_ema.pth] is not existed, Skip it
+23-12-10 08:27:14.054 - INFO: Create the log file in directory palette_outputs.
+
+23-12-10 08:27:14.076 - INFO: Dataset [InpaintDataset() form data.dataset] is created.
+23-12-10 08:27:14.076 - INFO: Dataset for test have 1 samples.
+23-12-10 08:27:14.569 - INFO: Network [Network() form models.network] is created.
+23-12-10 08:27:14.575 - WARNING: Config is a str, converts to a dict {'name': 'mae'}
+23-12-10 08:27:14.868 - INFO: Metric [mae() form models.metric] is created.
+23-12-10 08:27:14.868 - WARNING: Config is a str, converts to a dict {'name': 'mse_loss'}
+23-12-10 08:27:14.869 - INFO: Loss [mse_loss() form models.loss] is created.
+23-12-10 08:27:15.709 - INFO: Beign loading pretrained model [Network] ...
+23-12-10 08:27:15.709 - INFO: Loading pretrained model from [./Palette/checkpoint/200_Network.pth] ...
+23-12-10 08:27:16.918 - INFO: Beign loading pretrained model [Network_ema] ...
+23-12-10 08:27:16.921 - WARNING: Pretrained model in [./Palette/checkpoint/200_Network_ema.pth] is not existed, Skip it
+23-12-10 08:27:31.129 - INFO: Create the log file in directory palette_outputs.
+
+23-12-10 08:27:31.150 - INFO: Dataset [InpaintDataset() form data.dataset] is created.
+23-12-10 08:27:31.150 - INFO: Dataset for test have 1 samples.
+23-12-10 08:27:32.316 - INFO: Network [Network() form models.network] is created.
+23-12-10 08:27:32.316 - WARNING: Config is a str, converts to a dict {'name': 'mae'}
+23-12-10 08:27:32.844 - INFO: Metric [mae() form models.metric] is created.
+23-12-10 08:27:32.848 - WARNING: Config is a str, converts to a dict {'name': 'mse_loss'}
+23-12-10 08:27:32.850 - INFO: Loss [mse_loss() form models.loss] is created.
+23-12-10 08:27:34.428 - INFO: Beign loading pretrained model [Network] ...
+23-12-10 08:27:34.438 - INFO: Loading pretrained model from [./Palette/checkpoint/200_Network.pth] ...
+23-12-10 08:27:36.797 - INFO: Beign loading pretrained model [Network_ema] ...
+23-12-10 08:27:36.802 - WARNING: Pretrained model in [./Palette/checkpoint/200_Network_ema.pth] is not existed, Skip it
+23-12-10 08:30:36.988 - INFO: Create the log file in directory palette_outputs.
+
+23-12-10 08:30:37.007 - INFO: Dataset [InpaintDataset() form data.dataset] is created.
+23-12-10 08:30:37.007 - INFO: Dataset for test have 1 samples.
+23-12-10 08:30:37.391 - INFO: Network [Network() form models.network] is created.
+23-12-10 08:30:37.391 - WARNING: Config is a str, converts to a dict {'name': 'mae'}
+23-12-10 08:30:37.652 - INFO: Metric [mae() form models.metric] is created.
+23-12-10 08:30:37.652 - WARNING: Config is a str, converts to a dict {'name': 'mse_loss'}
+23-12-10 08:30:37.653 - INFO: Loss [mse_loss() form models.loss] is created.
+23-12-10 08:30:37.749 - INFO: Beign loading pretrained model [Network] ...
+23-12-10 08:30:37.750 - INFO: Loading pretrained model from [./Palette/checkpoint/200_Network.pth] ...
+23-12-10 08:30:37.921 - INFO: Beign loading pretrained model [Network_ema] ...
+23-12-10 08:30:37.922 - WARNING: Pretrained model in [./Palette/checkpoint/200_Network_ema.pth] is not existed, Skip it
+23-12-10 08:30:40.799 - INFO: Create the log file in directory palette_outputs.
+
+23-12-10 08:30:40.817 - INFO: Dataset [InpaintDataset() form data.dataset] is created.
+23-12-10 08:30:40.817 - INFO: Dataset for test have 1 samples.
+23-12-10 08:30:41.193 - INFO: Network [Network() form models.network] is created.
+23-12-10 08:30:41.193 - WARNING: Config is a str, converts to a dict {'name': 'mae'}
+23-12-10 08:30:41.456 - INFO: Metric [mae() form models.metric] is created.
+23-12-10 08:30:41.456 - WARNING: Config is a str, converts to a dict {'name': 'mse_loss'}
+23-12-10 08:30:41.457 - INFO: Loss [mse_loss() form models.loss] is created.
+23-12-10 08:30:41.555 - INFO: Beign loading pretrained model [Network] ...
+23-12-10 08:30:41.555 - INFO: Loading pretrained model from [./Palette/checkpoint/200_Network.pth] ...
+23-12-10 08:30:41.721 - INFO: Beign loading pretrained model [Network_ema] ...
+23-12-10 08:30:41.721 - WARNING: Pretrained model in [./Palette/checkpoint/200_Network_ema.pth] is not existed, Skip it
+23-12-10 08:32:10.550 - INFO: Create the log file in directory palette_outputs.
+
+23-12-10 08:32:10.568 - INFO: Dataset [InpaintDataset() form data.dataset] is created.
+23-12-10 08:32:10.569 - INFO: Dataset for test have 1 samples.
+23-12-10 08:32:10.924 - INFO: Network [Network() form models.network] is created.
+23-12-10 08:32:10.924 - WARNING: Config is a str, converts to a dict {'name': 'mae'}
+23-12-10 08:32:11.181 - INFO: Metric [mae() form models.metric] is created.
+23-12-10 08:32:11.182 - WARNING: Config is a str, converts to a dict {'name': 'mse_loss'}
+23-12-10 08:32:11.183 - INFO: Loss [mse_loss() form models.loss] is created.
+23-12-10 08:32:11.297 - INFO: Beign loading pretrained model [Network] ...
+23-12-10 08:32:11.297 - INFO: Loading pretrained model from [./Palette/checkpoint/200_Network.pth] ...
+23-12-10 08:32:11.461 - INFO: Beign loading pretrained model [Network_ema] ...
+23-12-10 08:32:11.461 - WARNING: Pretrained model in [./Palette/checkpoint/200_Network_ema.pth] is not existed, Skip it
+23-12-10 08:32:14.006 - INFO: Create the log file in directory palette_outputs.
+
+23-12-10 08:32:14.024 - INFO: Dataset [InpaintDataset() form data.dataset] is created.
+23-12-10 08:32:14.024 - INFO: Dataset for test have 1 samples.
+23-12-10 08:32:14.341 - INFO: Network [Network() form models.network] is created.
+23-12-10 08:32:14.341 - WARNING: Config is a str, converts to a dict {'name': 'mae'}
+23-12-10 08:32:14.582 - INFO: Metric [mae() form models.metric] is created.
+23-12-10 08:32:14.582 - WARNING: Config is a str, converts to a dict {'name': 'mse_loss'}
+23-12-10 08:32:14.582 - INFO: Loss [mse_loss() form models.loss] is created.
+23-12-10 08:32:14.682 - INFO: Beign loading pretrained model [Network] ...
+23-12-10 08:32:14.682 - INFO: Loading pretrained model from [./Palette/checkpoint/200_Network.pth] ...
+23-12-10 08:32:14.842 - INFO: Beign loading pretrained model [Network_ema] ...
+23-12-10 08:32:14.843 - WARNING: Pretrained model in [./Palette/checkpoint/200_Network_ema.pth] is not existed, Skip it
+23-12-10 08:32:16.709 - INFO: Create the log file in directory palette_outputs.
+
+23-12-10 08:32:16.727 - INFO: Dataset [InpaintDataset() form data.dataset] is created.
+23-12-10 08:32:16.727 - INFO: Dataset for test have 1 samples.
+23-12-10 08:32:17.051 - INFO: Network [Network() form models.network] is created.
+23-12-10 08:32:17.051 - WARNING: Config is a str, converts to a dict {'name': 'mae'}
+23-12-10 08:32:17.310 - INFO: Metric [mae() form models.metric] is created.
+23-12-10 08:32:17.311 - WARNING: Config is a str, converts to a dict {'name': 'mse_loss'}
+23-12-10 08:32:17.311 - INFO: Loss [mse_loss() form models.loss] is created.
+23-12-10 08:32:17.403 - INFO: Beign loading pretrained model [Network] ...
+23-12-10 08:32:17.403 - INFO: Loading pretrained model from [./Palette/checkpoint/200_Network.pth] ...
+23-12-10 08:32:17.565 - INFO: Beign loading pretrained model [Network_ema] ...
+23-12-10 08:32:17.565 - WARNING: Pretrained model in [./Palette/checkpoint/200_Network_ema.pth] is not existed, Skip it
+23-12-10 08:41:20.857 - INFO: Create the log file in directory palette_outputs.
+
+23-12-10 08:41:20.900 - INFO: Dataset [InpaintDataset() form data.dataset] is created.
+23-12-10 08:41:20.900 - INFO: Dataset for test have 1 samples.
+23-12-10 08:41:21.361 - INFO: Network [Network() form models.network] is created.
+23-12-10 08:41:21.361 - WARNING: Config is a str, converts to a dict {'name': 'mae'}
+23-12-10 08:41:21.709 - INFO: Metric [mae() form models.metric] is created.
+23-12-10 08:41:21.709 - WARNING: Config is a str, converts to a dict {'name': 'mse_loss'}
+23-12-10 08:41:21.710 - INFO: Loss [mse_loss() form models.loss] is created.
+23-12-10 08:41:21.837 - INFO: Beign loading pretrained model [Network] ...
+23-12-10 08:41:21.837 - INFO: Loading pretrained model from [./Palette/checkpoint/200_Network.pth] ...
+23-12-10 08:41:22.163 - INFO: Beign loading pretrained model [Network_ema] ...
+23-12-10 08:41:22.163 - WARNING: Pretrained model in [./Palette/checkpoint/200_Network_ema.pth] is not existed, Skip it
+23-12-10 08:41:23.927 - INFO: Create the log file in directory palette_outputs.
+
+23-12-10 08:41:23.945 - INFO: Dataset [InpaintDataset() form data.dataset] is created.
+23-12-10 08:41:23.945 - INFO: Dataset for test have 1 samples.
+23-12-10 08:41:24.261 - INFO: Network [Network() form models.network] is created.
+23-12-10 08:41:24.261 - WARNING: Config is a str, converts to a dict {'name': 'mae'}
+23-12-10 08:41:24.520 - INFO: Metric [mae() form models.metric] is created.
+23-12-10 08:41:24.520 - WARNING: Config is a str, converts to a dict {'name': 'mse_loss'}
+23-12-10 08:41:24.520 - INFO: Loss [mse_loss() form models.loss] is created.
+23-12-10 08:41:24.607 - INFO: Beign loading pretrained model [Network] ...
+23-12-10 08:41:24.607 - INFO: Loading pretrained model from [./Palette/checkpoint/200_Network.pth] ...
+23-12-10 08:41:24.793 - INFO: Beign loading pretrained model [Network_ema] ...
+23-12-10 08:41:24.793 - WARNING: Pretrained model in [./Palette/checkpoint/200_Network_ema.pth] is not existed, Skip it
+23-12-10 08:41:26.760 - INFO: Create the log file in directory palette_outputs.
+
+23-12-10 08:41:26.778 - INFO: Dataset [InpaintDataset() form data.dataset] is created.
+23-12-10 08:41:26.778 - INFO: Dataset for test have 1 samples.
+23-12-10 08:41:27.072 - INFO: Network [Network() form models.network] is created.
+23-12-10 08:41:27.072 - WARNING: Config is a str, converts to a dict {'name': 'mae'}
+23-12-10 08:41:27.326 - INFO: Metric [mae() form models.metric] is created.
+23-12-10 08:41:27.326 - WARNING: Config is a str, converts to a dict {'name': 'mse_loss'}
+23-12-10 08:41:27.327 - INFO: Loss [mse_loss() form models.loss] is created.
+23-12-10 08:41:27.527 - INFO: Beign loading pretrained model [Network] ...
+23-12-10 08:41:27.528 - INFO: Loading pretrained model from [./Palette/checkpoint/200_Network.pth] ...
+23-12-10 08:41:27.685 - INFO: Beign loading pretrained model [Network_ema] ...
+23-12-10 08:41:27.685 - WARNING: Pretrained model in [./Palette/checkpoint/200_Network_ema.pth] is not existed, Skip it
+23-12-10 08:46:36.325 - INFO: Create the log file in directory palette_outputs.
+
+23-12-10 08:46:36.390 - INFO: Dataset [InpaintDataset() form data.dataset] is created.
+23-12-10 08:46:36.391 - INFO: Dataset for test have 1 samples.
+23-12-10 08:46:37.418 - INFO: Network [Network() form models.network] is created.
+23-12-10 08:46:37.419 - WARNING: Config is a str, converts to a dict {'name': 'mae'}
+23-12-10 08:46:37.975 - INFO: Metric [mae() form models.metric] is created.
+23-12-10 08:46:37.979 - WARNING: Config is a str, converts to a dict {'name': 'mse_loss'}
+23-12-10 08:46:37.981 - INFO: Loss [mse_loss() form models.loss] is created.
+23-12-10 08:46:39.253 - INFO: Beign loading pretrained model [Network] ...
+23-12-10 08:46:39.254 - INFO: Loading pretrained model from [./Palette/checkpoint/200_Network.pth] ...
+23-12-10 08:46:39.662 - INFO: Beign loading pretrained model [Network_ema] ...
+23-12-10 08:46:39.662 - WARNING: Pretrained model in [./Palette/checkpoint/200_Network_ema.pth] is not existed, Skip it
+23-12-10 08:46:45.112 - INFO: Create the log file in directory palette_outputs.
+
+23-12-10 08:46:45.130 - INFO: Dataset [InpaintDataset() form data.dataset] is created.
+23-12-10 08:46:45.130 - INFO: Dataset for test have 1 samples.
+23-12-10 08:46:45.424 - INFO: Network [Network() form models.network] is created.
+23-12-10 08:46:45.424 - WARNING: Config is a str, converts to a dict {'name': 'mae'}
+23-12-10 08:46:45.686 - INFO: Metric [mae() form models.metric] is created.
+23-12-10 08:46:45.686 - WARNING: Config is a str, converts to a dict {'name': 'mse_loss'}
+23-12-10 08:46:45.688 - INFO: Loss [mse_loss() form models.loss] is created.
+23-12-10 08:46:45.795 - INFO: Beign loading pretrained model [Network] ...
+23-12-10 08:46:45.795 - INFO: Loading pretrained model from [./Palette/checkpoint/200_Network.pth] ...
+23-12-10 08:46:45.976 - INFO: Beign loading pretrained model [Network_ema] ...
+23-12-10 08:46:45.977 - WARNING: Pretrained model in [./Palette/checkpoint/200_Network_ema.pth] is not existed, Skip it
+23-12-10 08:46:50.935 - INFO: Create the log file in directory palette_outputs.
+
+23-12-10 08:46:50.954 - INFO: Dataset [InpaintDataset() form data.dataset] is created.
+23-12-10 08:46:50.955 - INFO: Dataset for test have 1 samples.
+23-12-10 08:46:51.298 - INFO: Network [Network() form models.network] is created.
+23-12-10 08:46:51.298 - WARNING: Config is a str, converts to a dict {'name': 'mae'}
+23-12-10 08:46:51.569 - INFO: Metric [mae() form models.metric] is created.
+23-12-10 08:46:51.570 - WARNING: Config is a str, converts to a dict {'name': 'mse_loss'}
+23-12-10 08:46:51.571 - INFO: Loss [mse_loss() form models.loss] is created.
+23-12-10 08:46:51.669 - INFO: Beign loading pretrained model [Network] ...
+23-12-10 08:46:51.670 - INFO: Loading pretrained model from [./Palette/checkpoint/200_Network.pth] ...
+23-12-10 08:46:51.862 - INFO: Beign loading pretrained model [Network_ema] ...
+23-12-10 08:46:51.862 - WARNING: Pretrained model in [./Palette/checkpoint/200_Network_ema.pth] is not existed, Skip it
+23-12-10 08:47:11.506 - INFO: Create the log file in directory palette_outputs.
+
+23-12-10 08:47:11.535 - INFO: Dataset [InpaintDataset() form data.dataset] is created.
+23-12-10 08:47:11.535 - INFO: Dataset for test have 1 samples.
+23-12-10 08:47:12.301 - INFO: Network [Network() form models.network] is created.
+23-12-10 08:47:12.304 - WARNING: Config is a str, converts to a dict {'name': 'mae'}
+23-12-10 08:47:13.088 - INFO: Metric [mae() form models.metric] is created.
+23-12-10 08:47:13.090 - WARNING: Config is a str, converts to a dict {'name': 'mse_loss'}
+23-12-10 08:47:13.091 - INFO: Loss [mse_loss() form models.loss] is created.
+23-12-10 08:47:14.126 - INFO: Beign loading pretrained model [Network] ...
+23-12-10 08:47:14.127 - INFO: Loading pretrained model from [./Palette/checkpoint/200_Network.pth] ...
+23-12-10 08:47:14.333 - INFO: Beign loading pretrained model [Network_ema] ...
+23-12-10 08:47:14.334 - WARNING: Pretrained model in [./Palette/checkpoint/200_Network_ema.pth] is not existed, Skip it
+23-12-10 08:54:55.918 - INFO: Create the log file in directory palette_outputs.
+
+23-12-10 08:54:55.962 - INFO: Dataset [InpaintDataset() form data.dataset] is created.
+23-12-10 08:54:55.963 - INFO: Dataset for test have 1 samples.
+23-12-10 08:54:56.376 - INFO: Network [Network() form models.network] is created.
+23-12-10 08:54:56.376 - WARNING: Config is a str, converts to a dict {'name': 'mae'}
+23-12-10 08:54:56.711 - INFO: Metric [mae() form models.metric] is created.
+23-12-10 08:54:56.712 - WARNING: Config is a str, converts to a dict {'name': 'mse_loss'}
+23-12-10 08:54:56.712 - INFO: Loss [mse_loss() form models.loss] is created.
+23-12-10 08:54:56.858 - INFO: Beign loading pretrained model [Network] ...
+23-12-10 08:54:56.858 - INFO: Loading pretrained model from [./Palette/checkpoint/200_Network.pth] ...
+23-12-10 08:54:57.194 - INFO: Beign loading pretrained model [Network_ema] ...
+23-12-10 08:54:57.195 - WARNING: Pretrained model in [./Palette/checkpoint/200_Network_ema.pth] is not existed, Skip it
+23-12-10 08:55:00.204 - INFO: Create the log file in directory palette_outputs.
+
+23-12-10 08:55:00.224 - INFO: Dataset [InpaintDataset() form data.dataset] is created.
+23-12-10 08:55:00.224 - INFO: Dataset for test have 1 samples.
+23-12-10 08:55:00.573 - INFO: Network [Network() form models.network] is created.
+23-12-10 08:55:00.573 - WARNING: Config is a str, converts to a dict {'name': 'mae'}
+23-12-10 08:55:00.846 - INFO: Metric [mae() form models.metric] is created.
+23-12-10 08:55:00.846 - WARNING: Config is a str, converts to a dict {'name': 'mse_loss'}
+23-12-10 08:55:00.846 - INFO: Loss [mse_loss() form models.loss] is created.
+23-12-10 08:55:00.960 - INFO: Beign loading pretrained model [Network] ...
+23-12-10 08:55:00.960 - INFO: Loading pretrained model from [./Palette/checkpoint/200_Network.pth] ...
+23-12-10 08:55:01.150 - INFO: Beign loading pretrained model [Network_ema] ...
+23-12-10 08:55:01.151 - WARNING: Pretrained model in [./Palette/checkpoint/200_Network_ema.pth] is not existed, Skip it
+23-12-10 08:55:05.713 - INFO: Create the log file in directory palette_outputs.
+
+23-12-10 08:55:05.732 - INFO: Dataset [InpaintDataset() form data.dataset] is created.
+23-12-10 08:55:05.732 - INFO: Dataset for test have 1 samples.
+23-12-10 08:55:06.082 - INFO: Network [Network() form models.network] is created.
+23-12-10 08:55:06.082 - WARNING: Config is a str, converts to a dict {'name': 'mae'}
+23-12-10 08:55:06.349 - INFO: Metric [mae() form models.metric] is created.
+23-12-10 08:55:06.349 - WARNING: Config is a str, converts to a dict {'name': 'mse_loss'}
+23-12-10 08:55:06.350 - INFO: Loss [mse_loss() form models.loss] is created.
+23-12-10 08:55:06.489 - INFO: Beign loading pretrained model [Network] ...
+23-12-10 08:55:06.489 - INFO: Loading pretrained model from [./Palette/checkpoint/200_Network.pth] ...
+23-12-10 08:55:06.696 - INFO: Beign loading pretrained model [Network_ema] ...
+23-12-10 08:55:06.696 - WARNING: Pretrained model in [./Palette/checkpoint/200_Network_ema.pth] is not existed, Skip it
+23-12-10 08:55:55.277 - INFO: Create the log file in directory palette_outputs.
+
+23-12-10 08:55:55.299 - INFO: Dataset [InpaintDataset() form data.dataset] is created.
+23-12-10 08:55:55.299 - INFO: Dataset for test have 1 samples.
+23-12-10 08:55:55.650 - INFO: Network [Network() form models.network] is created.
+23-12-10 08:55:55.650 - WARNING: Config is a str, converts to a dict {'name': 'mae'}
+23-12-10 08:55:55.919 - INFO: Metric [mae() form models.metric] is created.
+23-12-10 08:55:55.920 - WARNING: Config is a str, converts to a dict {'name': 'mse_loss'}
+23-12-10 08:55:55.921 - INFO: Loss [mse_loss() form models.loss] is created.
+23-12-10 08:55:56.035 - INFO: Beign loading pretrained model [Network] ...
+23-12-10 08:55:56.035 - INFO: Loading pretrained model from [./Palette/checkpoint/200_Network.pth] ...
+23-12-10 08:55:56.205 - INFO: Beign loading pretrained model [Network_ema] ...
+23-12-10 08:55:56.206 - WARNING: Pretrained model in [./Palette/checkpoint/200_Network_ema.pth] is not existed, Skip it
+23-12-10 08:56:32.742 - INFO: Create the log file in directory palette_outputs.
+
+23-12-10 08:56:32.779 - INFO: Dataset [InpaintDataset() form data.dataset] is created.
+23-12-10 08:56:32.779 - INFO: Dataset for test have 1 samples.
+23-12-10 08:56:33.731 - INFO: Network [Network() form models.network] is created.
+23-12-10 08:56:33.731 - WARNING: Config is a str, converts to a dict {'name': 'mae'}
+23-12-10 08:56:34.340 - INFO: Metric [mae() form models.metric] is created.
+23-12-10 08:56:34.342 - WARNING: Config is a str, converts to a dict {'name': 'mse_loss'}
+23-12-10 08:56:34.348 - INFO: Loss [mse_loss() form models.loss] is created.
+23-12-10 08:56:35.804 - INFO: Beign loading pretrained model [Network] ...
+23-12-10 08:56:35.804 - INFO: Loading pretrained model from [./Palette/checkpoint/200_Network.pth] ...
+23-12-10 08:56:36.795 - INFO: Beign loading pretrained model [Network_ema] ...
+23-12-10 08:56:36.803 - WARNING: Pretrained model in [./Palette/checkpoint/200_Network_ema.pth] is not existed, Skip it
+23-12-12 16:23:35.568 - INFO: Create the log file in directory palette_outputs.
+
+23-12-12 16:23:35.583 - INFO: Dataset [InpaintDataset() form data.dataset] is created.
+23-12-12 16:23:35.583 - INFO: Dataset for test have 1 samples.
+23-12-12 16:23:35.831 - INFO: Network [Network() form models.network] is created.
+23-12-12 16:23:35.831 - WARNING: Config is a str, converts to a dict {'name': 'mae'}
+23-12-12 16:23:36.061 - INFO: Metric [mae() form models.metric] is created.
+23-12-12 16:23:36.061 - WARNING: Config is a str, converts to a dict {'name': 'mse_loss'}
+23-12-12 16:23:36.061 - INFO: Loss [mse_loss() form models.loss] is created.
+23-12-12 16:23:36.509 - INFO: Beign loading pretrained model [Network] ...
+23-12-12 16:23:36.509 - INFO: Loading pretrained model from [./Palette/checkpoint/200_Network.pth] ...
+23-12-12 16:23:36.625 - INFO: Beign loading pretrained model [Network_ema] ...
+23-12-12 16:23:36.625 - WARNING: Pretrained model in [./Palette/checkpoint/200_Network_ema.pth] is not existed, Skip it
+23-12-12 16:23:36.628 - INFO: Model [Palette() form models.model] is created.
+23-12-12 16:23:36.628 - INFO: Begin model test.
+23-12-12 16:24:37.787 - INFO: test/mae: 0.09838761389255524	
+23-12-12 16:24:37.787 - INFO: epoch: 0	
+23-12-12 16:24:37.787 - INFO: iters: 1	
+23-12-12 16:26:19.360 - INFO: Create the log file in directory palette_outputs.
+
+23-12-12 16:26:19.375 - INFO: Dataset [InpaintDataset() form data.dataset] is created.
+23-12-12 16:26:19.375 - INFO: Dataset for test have 1 samples.
+23-12-12 16:26:19.623 - INFO: Network [Network() form models.network] is created.
+23-12-12 16:26:19.623 - WARNING: Config is a str, converts to a dict {'name': 'mae'}
+23-12-12 16:26:19.853 - INFO: Metric [mae() form models.metric] is created.
+23-12-12 16:26:19.853 - WARNING: Config is a str, converts to a dict {'name': 'mse_loss'}
+23-12-12 16:26:19.853 - INFO: Loss [mse_loss() form models.loss] is created.
+23-12-12 16:26:20.275 - INFO: Beign loading pretrained model [Network] ...
+23-12-12 16:26:20.276 - INFO: Loading pretrained model from [./Palette/checkpoint/200_Network.pth] ...
+23-12-12 16:26:20.382 - INFO: Beign loading pretrained model [Network_ema] ...
+23-12-12 16:26:20.382 - WARNING: Pretrained model in [./Palette/checkpoint/200_Network_ema.pth] is not existed, Skip it
+23-12-12 16:26:20.385 - INFO: Model [Palette() form models.model] is created.
+23-12-12 16:26:20.385 - INFO: Begin model test.
+23-12-12 16:27:21.213 - INFO: test/mae: 0.1309952288866043	
+23-12-12 16:27:21.213 - INFO: epoch: 0	
+23-12-12 16:27:21.213 - INFO: iters: 1	
